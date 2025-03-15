@@ -1,0 +1,9 @@
+2025-03-11 04:37:04,781 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-11 04:37:04,781 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-11 04:37:04,783 - INFO -  * Restarting with stat
+2025-03-11 04:37:07,391 - WARNING -  * Debugger is active!
+2025-03-11 04:37:07,394 - INFO -  * Debugger PIN: 323-616-660
+2025-03-11 04:37:45,180 - INFO - 127.0.0.1 - - [11/Mar/2025 04:37:45] "[31m[1mOPTIONS /chat HTTP/1.1[0m" 415 -
+2025-03-11 04:39:28,983 - INFO -  * Detected change in 'C:\\Users\\pc\\Desktop\\ai_chatbot\\server.py', reloading
+2025-03-11 04:39:29,153 - INFO -  * Restarting with stat

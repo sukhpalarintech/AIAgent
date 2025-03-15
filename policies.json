@@ -1,0 +1,8 @@
+{
+    "leave_policy": "Employees are entitled to 20 paid leaves per year. Unused leaves cannot be carried forward.",
+    "attendance_policy": "Employees must clock in between 9 AM and 10 AM. Late arrivals beyond 10 minutes will be marked as late.",
+    "work_from_home_policy": "Work from home is allowed for a maximum of 2 days per week, subject to manager approval.",
+    "maternity_policy": "Female employees are entitled to 26 weeks of paid maternity leave.",
+    "overtime_policy": "Overtime is compensated at 1.5x the regular hourly rate for extra hours worked beyond standard duty hours."
+  }
+  
